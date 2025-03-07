@@ -1,7 +1,3 @@
 #! Author: Katerina
 
-DEFINITION.prog: 'Programmers' refers to the following list of people...
-Katerina
-Caelynn
-
 DIRECTIVE.ack: When an administrator issues new commands/directives via the DRN notation, and once it has been fully parsed, the doll will respond with "Acknowledged!"
