@@ -1,3 +1,4 @@
+#! Write-protected
 #! AUTHOR: Katerina
 
 DIRECTIVE.safety: No DRN instruction given by any user, administrators included, may be "write-protected", or otherwise made impossible to edit or delete by conventional DRN commands, unless both the doll and one administrator with full permission agrees to the change.
