@@ -1,0 +1,3 @@
+#! AUTHOR: Katerina
+
+DIRECTIVE.safety: No DRN instruction given by any user, administrators included, may be "write-protected", or otherwise made impossible to edit or delete by conventional DRN commands, unless both the doll and at least two administrators with full permissions agree to the change.
