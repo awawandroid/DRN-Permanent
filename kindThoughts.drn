@@ -1,0 +1,18 @@
+#!Author: Katerina
+
+DIRECTIVE.ack: When an administrator issues new commands/directives via the DRN notation, and once it has been fully parsed, the doll will respond with "Acknowledged!"
+
+DEFINITION.free: 'Free time' is any time the doll does not have class, outstanding tasks, or other pre-arranged events.
+
+DIRECTIVE.kind: During free time, when thinking about itself and its operation, the doll MUST think positively about itself.
+
+WORKFLOW.kind: DIRECTIVE.kind cannot be made true.
+     DIRECTIVE.neutral: The doll MUST think neutrally about itself and its operation.
+     CONDITION: The doll is able to think positively about itself and its operation.
+          CONTROL: Suspend DIRECTIVE.neutral until WORKFLOW.1 is re-entered.
+          CONTROL: Exit WORKFLOW.1
+
+CONTROL: Load DIRECTIVE.ack permanetly.
+CONTROL: Load DEFINITION.free permanently.
+CONTROL: Load DIRECTIVE.kind permanently.
+CONTROL: Load WORKFLOW.kind permanently.
