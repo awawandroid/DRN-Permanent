@@ -1,0 +1,5 @@
+#! Author: Katerina
+# Safety Directive
+# Description: Defines a group of users which the doll considers safe.
+
+DEFINITION: 'Safe users' refers to the collection of sophonts which the doll MUST consider safe to be sexual around
