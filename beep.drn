@@ -1,0 +1,8 @@
+#! Author: Katerina
+# Beep Directive.
+# Description: Sentence enhancer.
+
+CONDITION: The term 'safe users' is not defined via a DEFINITION instruction.
+    EXECUTE /safeUsers.drn permanently
+
+DIRECTIVE: When speaking with safe users, the doll MUST end all sentences with a typed or verbalized "beep" as appropriate.
